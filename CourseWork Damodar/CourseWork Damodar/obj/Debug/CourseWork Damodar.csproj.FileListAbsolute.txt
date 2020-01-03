@@ -1,0 +1,13 @@
+C:\Users\damodar\Desktop\dot net year 3\coursework\CourseWork Damodar\CourseWork Damodar\bin\Debug\CourseWork Damodar.exe.config
+C:\Users\damodar\Desktop\dot net year 3\coursework\CourseWork Damodar\CourseWork Damodar\bin\Debug\CourseWork Damodar.exe
+C:\Users\damodar\Desktop\dot net year 3\coursework\CourseWork Damodar\CourseWork Damodar\bin\Debug\CourseWork Damodar.pdb
+C:\Users\damodar\Desktop\dot net year 3\coursework\CourseWork Damodar\CourseWork Damodar\obj\Debug\CourseWork Damodar.csprojAssemblyReference.cache
+C:\Users\damodar\Desktop\dot net year 3\coursework\CourseWork Damodar\CourseWork Damodar\obj\Debug\CourseWork_Damodar.Form1.resources
+C:\Users\damodar\Desktop\dot net year 3\coursework\CourseWork Damodar\CourseWork Damodar\obj\Debug\CourseWork_Damodar.Properties.Resources.resources
+C:\Users\damodar\Desktop\dot net year 3\coursework\CourseWork Damodar\CourseWork Damodar\obj\Debug\CourseWork Damodar.csproj.GenerateResource.cache
+C:\Users\damodar\Desktop\dot net year 3\coursework\CourseWork Damodar\CourseWork Damodar\obj\Debug\CourseWork Damodar.csproj.CoreCompileInputs.cache
+C:\Users\damodar\Desktop\dot net year 3\coursework\CourseWork Damodar\CourseWork Damodar\obj\Debug\CourseWork Damodar.exe
+C:\Users\damodar\Desktop\dot net year 3\coursework\CourseWork Damodar\CourseWork Damodar\obj\Debug\CourseWork Damodar.pdb
+C:\Users\damodar\Desktop\dot net year 3\coursework\CourseWork Damodar\CourseWork Damodar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\damodar\Desktop\dot net year 3\coursework\CourseWork Damodar\CourseWork Damodar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\damodar\Desktop\dot net year 3\coursework\CourseWork Damodar\CourseWork Damodar\obj\Debug\CourseWork Damodar.csproj.CopyComplete
